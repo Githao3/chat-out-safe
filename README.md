@@ -22,7 +22,7 @@
 ### 1. 把仓库拉下来
 
 ```bash
-git clone https://github.com/你的用户名/chat-out-safe.git
+git clone https://github.com/Githao3/chat-out-safe.git
 cd chat-out-safe
 ```
 
